@@ -5,7 +5,8 @@ Tetrix - a Tetris clone assigment for a JS developer candidate in Yggdrasil
 Developed in brackets with pixi.js.
 Playable with keyboard and touch 
 Tested and working in latest ff , chrome ,android chrome and ipad's safari.
-Had limited time on monday/tuesday evenings.
+Had limited time on monday/tuesday evenings so things could be polished up a bit more.
+no time to reasearch PIXI's buttons / kittykats pointer button interactions were dodgy so had to make a custom check for them 
 
 */
 
